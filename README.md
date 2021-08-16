@@ -1,4 +1,4 @@
-# QRCODE-MAKER
+# URL-QRCODE-MAKER
 Link to Qr Code
 
 For Example;
