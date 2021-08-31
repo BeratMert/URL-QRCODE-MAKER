@@ -2,4 +2,4 @@
 Link to Qr Code
 
 For Example;
-![resim](https://user-images.githubusercontent.com/83522079/131569133-1c1c0c4f-1125-48b4-9d88-a050356571bd.png)
+![](https://user-images.githubusercontent.com/83522079/131569133-1c1c0c4f-1125-48b4-9d88-a050356571bd.gif)
